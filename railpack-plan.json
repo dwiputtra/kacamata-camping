@@ -1,0 +1,6 @@
+{
+  "phpExtensions": [
+    "intl",
+    "zip"
+  ]
+}
